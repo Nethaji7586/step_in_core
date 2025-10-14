@@ -1,4 +1,4 @@
-# 🤖 AI Projects by Nethaji7586
+# 🤖 AI Projects by Nethaji
 
 Welcome to my **Artificial Intelligence (AI) projects repository**!  
 This repository contains various AI-related projects demonstrating my exploration and experiments in machine learning, deep learning, and intelligent systems.  
